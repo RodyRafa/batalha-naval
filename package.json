@@ -1,0 +1,11 @@
+{
+  "name": "batalha-naval",
+  "version": "1.0.0",
+  "description": "Jogo de tabalha naval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RodyRafa & Pedrao & JoaoJok",
+  "license": "ISC"
+}
